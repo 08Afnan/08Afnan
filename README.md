@@ -1,5 +1,7 @@
 ## Welcome to My Code Playground 🚀
-I'm Afnan Islam, and this repository is where my love for programming comes to life. From solving complex problems to building innovative projects, every line of code here is a reflection of my curiosity and creativity. Whether I'm diving into the depths of algorithms or crafting intuitive user experiences, my goal is always the same—write clean, efficient, and impactful code. Let's code something amazing together!
+I'm Afnan Islam, and this repository is where my love for programming comes to life. From solving complex problems to building innovative projects, every line of code here 
+is a reflection of my curiosity and creativity. Whether I'm diving into the depths of algorithms or crafting intuitive user experiences, my goal is always the same—write clean, 
+efficient, and impactful code. Let's code something amazing together!
 
 ### 🧰 Languages and Tools
 
