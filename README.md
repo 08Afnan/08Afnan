@@ -3,7 +3,7 @@ I'm Afnan Islam, and this repository is where my love for programming comes to l
 
 ### 🧰 Languages and Tools
 <p>
-<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"/>
+<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://wikimedia.org"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
